@@ -1,0 +1,7 @@
+Coefficient Hours : 1.2713087872880864
+Coefficient Effort: 1.2616197449327382
+Intercept         : 0.26263130232955345
+Accuracy          : 1.0
+Precision         : 1.0
+Recall            : 1.0
+F1-Score          : 1.0
