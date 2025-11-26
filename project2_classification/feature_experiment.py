@@ -16,7 +16,7 @@ df["effort"] = df["hours"] * np.random.uniform(0.7, 1.2, size=len(df))
 df["hours_sq"] = df["hours"] ** 2
 
 # You can change this line to your own feature idea
-df["interaction"] = df["hours"] * df["effort"]
+df["interaction"] = df["hours"] * df["effort"] # added the new feature to see the model performance
 
 
 X = df[["hours", "effort", "interaction"]]
